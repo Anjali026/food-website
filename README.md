@@ -1,2 +1,1 @@
-# food-website
-this website gives a menu card of restaurant
+tic-tac-toe game
